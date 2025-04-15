@@ -29,7 +29,7 @@ _The Product Detail Page_
 
 
 
-![Cart Screen](https://github.com/gokulvenkat243/iOS_Assignment/blob/11c324062c58530110434c71e465972d1108eefe/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2019.11.47.png)
+![Cart Screen](https://github.com/gokulvenkat243/iOS_Assignment/blob/f0aac1644f904e878cb985ffb82aa49a61e45f36/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2018.56.38.png)
 _The Cart Screen_
 
 

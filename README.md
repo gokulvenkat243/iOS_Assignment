@@ -8,7 +8,7 @@
 
  ## Screenshots
  
-![Home Screen](https://github.com/gokulvenkat243/ShopBuzz/blob/4221325b619b1e2c735be3238fbf82ee5a3ddeb8/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2018.35.06.png)
+![Home Screen](https://github.com/gokulvenkat243/iOS_Assignment/blob/11c324062c58530110434c71e465972d1108eefe/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2018.35.06.png)
 _The BuyZone Home Screen_
 
 
@@ -29,7 +29,7 @@ _The Product Detail Page_
 
 
 
-![Cart Screen](https://github.com/gokulvenkat243/ShopBuzz/blob/39e0f05acf1b041e10b651b6748b1977cd61d025/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2018.56.38.png)
+![Cart Screen](https://github.com/gokulvenkat243/iOS_Assignment/blob/11c324062c58530110434c71e465972d1108eefe/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2019.11.47.png)
 _The Cart Screen_
 
 

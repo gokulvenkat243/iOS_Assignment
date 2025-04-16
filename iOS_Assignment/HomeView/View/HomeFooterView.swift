@@ -73,7 +73,7 @@ class HomeFooterView: UIView {
 
     private let flashSaleCollectionView: UICollectionView = {
         let layout = UICollectionViewFlowLayout()
-        layout.itemSize = CGSize(width: 175, height: 260)
+        layout.itemSize = CGSize(width: 175, height: 290)
         layout.scrollDirection = .horizontal
         layout.minimumLineSpacing = 12
         let collectionView = UICollectionView(frame: .zero, collectionViewLayout: layout)

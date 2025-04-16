@@ -18,7 +18,7 @@ _The BuyZone Home Screen_
 
 
 
-![Product Detail](https://github.com/gokulvenkat243/ShopBuzz/blob/cd1956d3b1e18d411c3b3461332de21398267cea/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2019.11.47.png)
+![Product Detail](https://github.com/gokulvenkat243/iOS_Assignment/blob/19d5c747d49984a2a59fa0b3375911da4d07a0b3/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2019.11.47.png)
 _The Product Detail Page_
 
 
